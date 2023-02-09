@@ -25,6 +25,7 @@ int main (void) {
       printf("%d\n", anArray[i][j]);
     }
   }
+
   printf("*q=%d\n", *q);
 
   return EXIT_SUCCESS;
